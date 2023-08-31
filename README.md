@@ -1,3 +1,3 @@
 # projects
 
-Al my React projects
+All my React projects
